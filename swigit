@@ -1,0 +1,1 @@
+swig -tcl -c++ $1.swi

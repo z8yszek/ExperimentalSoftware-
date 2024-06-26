@@ -1,0 +1,26 @@
+0 KV 1
+1 KV 2
+2 KV 3
+3 KV 4
+4 AC U
+5 AC D
+6 AC L
+7 AC R
+8 KV OR
+9 AC OR
+10 START
+11 Master TRG
+12 KYOTO TRG
+13 KV Veto
+14 KV+AC Sum
+15 KYOTO Analog
+16 G&D 1 out bar
+17 G&D 2 out bar
+18 G&D 3 out bar
+19 G&D 4 out bar
+20 G&D 1 Delay
+21 Busy
+22 End of G&D 2
+23 Katana TTL to NIM
+24 SBT& bar
+25 Veto OR

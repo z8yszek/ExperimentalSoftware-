@@ -1,0 +1,14 @@
+%module switch
+%{
+#include "TCLThread.h"
+%}
+%inline %{
+
+unsigned int Get_Chan(int chan);
+void Set_Chan(unsigned int chan, int value);
+void Load_IP (int ip1, int ip2, int ip3, int ip4);
+
+void ReadSetupFile(char* filename) ;
+void WriteSetupFile(char* filename) ;
+int main (Tcl_Interp *interp);
+%}

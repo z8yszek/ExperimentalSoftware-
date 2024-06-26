@@ -1,0 +1,5 @@
+The signal switchers at the NSCL have now been configured for DHCP.
+To access the right switcher, simply change the hostname variable in
+setup.tcl on line 28.
+Then recomplie using "make"
+This will then find and use the right ipadress.
